@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: signjackdawtag21.github.io
-
-Sitemap: https://signjackdawtag21.github.io/YoutubeObhod/sitemap.xml
+Sitemap: https://github.com/signjackdawtag21/YoutubeObhod
